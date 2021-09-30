@@ -1,7 +1,14 @@
-# QuizFighterAngular
+# Quiz Fighter Angular
+
+:construction: Project under construction :construction:
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.9.
 
+## Features
+- [x] Create project
+- [x] Create README
+- [x] Install dependencies
+    - [x] angularfire@5.0.0-rc.11
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
