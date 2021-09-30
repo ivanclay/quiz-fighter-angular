@@ -1,0 +1,24 @@
+.login {
+  background-color: url("/assets/backgrounds/quiz-background.png");
+  background-color: #FFC;
+  width: 400px;
+  height: 600px;
+  text-align: center;
+  position: relative;
+}
+
+.logo {
+  background-image: url("/assets/backgrounds/logo.png");
+  background-repeat: no-repeat;
+  width: 400px;
+  height: 135;
+}
+
+.mat-list {
+  margin-left: 90px;
+  margin-right: 50px;
+}
+
+.mat-raised-button, .mat-button {
+  max-width: 180px;
+}
